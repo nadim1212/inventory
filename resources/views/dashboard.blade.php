@@ -1,5 +1,6 @@
 @extends('layouts.app')
-@section('title', 'Dashboard - Simple Product Management System')
+@section('title', 'Dashboard - Simplified Custom Inventory Management System (IMS)')
+
 @section('contents')
    <div class="row">
   Dashboard 
